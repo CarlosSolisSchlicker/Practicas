@@ -13,4 +13,5 @@ print("Salario del administrativo: "+str(salario_administrativo))
 if salario_presidente>salario_director>salario_jefe_area>salario_administrativo:
 	print("Todo en orden capitalista.")
 else:
-	print("Revisar error")
+	print("Revisar eror")
+		#texto adicional
